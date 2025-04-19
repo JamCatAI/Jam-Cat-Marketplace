@@ -1,0 +1,8 @@
+[package]
+name = "JamCatMarketplace"
+version = "0.0.1"
+
+[dependencies]
+
+[addresses]
+jamcat = "0xDEADBEEF"
